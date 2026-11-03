@@ -8,44 +8,51 @@ Engineering that does not merely resist entropy — it subordinates it.
 
 ---
 
-### Choose your language / Выберите язык
+### 📖 Read online (HTML)
 
-| Language | Code | Status | Link |
-|----------|------|--------|------|
-| **Русский** | `ru` | ✅ Complete | [ru/](./ru/) |
-| **English** | `en` | 🔄 In progress | [en/](./en/) |
-| **Español** | `es` | Planned | [es/](./es/) |
-| **中文** | `zh` | Planned | [zh/](./zh/) |
-| **العربية** | `ar` | Planned | [ar/](./ar/) |
-| **हिन्दी** | `hi` | Planned | [hi/](./hi/) |
-| **Français** | `fr` | Planned | [fr/](./fr/) |
-| **Português** | `pt` | Planned | [pt/](./pt/) |
-| **Bahasa Indonesia** | `id` | Planned | [id/](./id/) |
-| **বাংলা** | `bn` | Planned | [bn/](./bn/) |
+`docs/index.html` or after GitHub Pages:  
+**https://YOUR_USERNAME.github.io/Creators-Theorem/**
 
-These ten languages cover **well over 75%** of the world’s adult population.
+---
+
+### Languages
+
+| Language | Code | Status |
+|----------|------|--------|
+| **Русский** | `ru` | ✅ Full cycle |
+| **English** | `en` | ✅ Full cycle |
+| **Español** | `es` | ✅ Full cycle |
+| **Français** | `fr` | ✅ Full cycle |
+| **Deutsch** | `de` | ✅ Full cycle |
+| **Português** | `pt` | ✅ Full cycle |
+| **中文** | `zh` | ✅ Full cycle (high quality) |
+| **العربية** | `ar` | ✅ All 5 books |
+| **हिन्दी** | `hi` | ✅ All 5 books |
+| **Bahasa Indonesia** | `id` | ✅ All 5 books |
+| **বাংলা** | `bn` | ✅ All 5 books |
+
+Coverage: well over **75%** of the world’s adult population.
 
 ---
 
 ### The Cycle
 
-1. **Creator’s Theorem** — Is there an Engineer?
-2. **Care** — Why is the Stage arranged this way?
-3. **Energy** — What physical foundation holds everything?
-4. **Evolution** — How does information become working machinery?
-5. **Time** — What happens when the subject becomes nearly eternal?
+1. Creator’s Theorem / Schöpfer-Theorem  
+2. Care / Fürsorge  
+3. Energy / Energie  
+4. Evolution  
+5. Time / Zeit  
 
 ---
 
-### Quick start (for the author)
+### Quick start
 
 ```bash
-# If you unpacked this into ~/Theorem
 cd ~/Theorem
 ./push-to-github.sh
 ```
 
-The script will create a public repository `Creators-Theorem` and push everything using your already authenticated `gh` account.
+Enable GitHub Pages → folder `/docs`.
 
 ---
 

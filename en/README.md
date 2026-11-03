@@ -7,6 +7,8 @@ Five books. One mosaic.
 Engineering that is impossible without an Engineer.  
 Not merely overcoming entropy — subordinating it.
 
+![Mosaic](../assets/illustrations/mosaic-overall.jpg)
+
 ---
 
 ## Books
@@ -23,7 +25,6 @@ Not merely overcoming entropy — subordinating it.
 
 ---
 
-**Status:** Translation in progress.  
-Russian original is complete.
+**Status:** English translation complete.
 
 [← Back to language selection](../README.md)
